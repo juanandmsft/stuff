@@ -1,4 +1,4 @@
-# This script has been tested on Ubuntu
+# This script has been tested on Ubuntu in dev
 # Update repository
 apt update -y && sudo apt upgrade -y 
 #Traceroute
